@@ -1,1 +1,0 @@
-# aws-employee-db-project
