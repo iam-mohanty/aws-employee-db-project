@@ -1,4 +1,4 @@
-## aws-project :- employee database record 👍😎
+## aws-project :- employee database record 👍✌️
 
 ## 1. For Linux use:
 ====================
